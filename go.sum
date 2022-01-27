@@ -1,0 +1,13 @@
+github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
+github.com/go-gl/gl v0.0.0-20211210172815-726fda9656d6 h1:zDw5v7qm4yH7N8C8uWd+8Ii9rROdgWxQuGoJ9WDXxfk=
+github.com/go-gl/gl v0.0.0-20211210172815-726fda9656d6/go.mod h1:9YTyiznxEY1fVinfM7RvRcjRHbw2xLBJ3AAGIT0I4Nw=
+github.com/go-gl/glfw/v3.3/glfw v0.0.0-20211213063430-748e38ca8aec h1:3FLiRYO6PlQFDpUU7OEFlWgjGD1jnBIVSJ5SYRWk+9c=
+github.com/go-gl/glfw/v3.3/glfw v0.0.0-20211213063430-748e38ca8aec/go.mod h1:tQ2UAYgL5IevRw8kRxooKSPJfGvJ9fJQFa0TUsXzTg8=
+github.com/oyberntzen/ecs v0.0.0-20220119074359-dd43eda0838b h1:JfuCuV2iIN3ORjwZzMU97oYPwe1QNBleHp1n6pL6iwA=
+github.com/oyberntzen/ecs v0.0.0-20220119074359-dd43eda0838b/go.mod h1:JrPlZ4CVi6VUIXZaoUoC47k7Ev8h9+pcxpWHh9nv0iI=
+github.com/oyberntzen/gogm v0.0.0-20220103190047-3145cc90d696 h1:RD5wp/JNg1UOdZ7ftHZ32ZGwtLmDMR+9LO9Ip2hL7Aw=
+github.com/oyberntzen/gogm v0.0.0-20220103190047-3145cc90d696/go.mod h1:Rex+WQ50JUk3DXBALPBfNfNl60baT6RTMjoS4Mnc7Go=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/smyrman/subx v0.0.0-20211231221533-ea1983401750 h1:s/xu2H+yLqJZvF9LWLTVz2S06CCsW2JOaiLm3dQV1Ck=
+github.com/stretchr/testify v1.7.0 h1:nwc3DEeHmmLAfoZucVR881uASk0Mfjw8xYJ99tb5CcY=
+gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c h1:dUUwHk2QECo/6vqA44rthZ8ie2QXMNeKRTHCNY2nXvo=
