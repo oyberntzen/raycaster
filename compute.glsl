@@ -20,7 +20,7 @@ uniform vec2 camPlane;
 void main() {
     int x = int(gl_GlobalInvocationID.x);
     
-    float cameraX = 2 * x / float(SCREEN_WIDTH) - 1;
+    float cameraX = 2 * (x / float(SCREEN_WIDTH)) - 1;
     vec2 rayDir = camDir + (camPlane * cameraX);
 
     ivec2 mapPos = ivec2(camPos);
